@@ -1,3 +1,4 @@
+# AI Text to Image generator
 from flask import Flask
 
 app = Flask(__name__)
