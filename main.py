@@ -1,4 +1,4 @@
-# AI Text to Image generator
+# AI Text to Image generator using Dall-e
 from flask import Flask
 
 app = Flask(__name__)
